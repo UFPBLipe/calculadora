@@ -13,6 +13,8 @@ public class FelipeTest {
 		System.out.println("Informe o segundo valor.");
 		felipe.setValorII(scanner.nextInt());
 		System.out.println("O resultado da soma é " + felipe.calculo(felipe.getValorI(), felipe.getValorII()) + ".");
+		
+		//Teste FilipeVaz
 	}
 
 }
