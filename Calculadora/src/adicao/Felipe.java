@@ -1,6 +1,6 @@
 package adicao;
 
-public class Soma {
+public class Felipe {
 
 	private int valorI;
 	private int valorII;
